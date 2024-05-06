@@ -1,0 +1,14 @@
+D:\Users\Marneilx\Documents\Programming\C# NIcarjon 2\bin\Debug\net8.0\C# NIcarjon 2.exe
+D:\Users\Marneilx\Documents\Programming\C# NIcarjon 2\bin\Debug\net8.0\C# NIcarjon 2.deps.json
+D:\Users\Marneilx\Documents\Programming\C# NIcarjon 2\bin\Debug\net8.0\C# NIcarjon 2.runtimeconfig.json
+D:\Users\Marneilx\Documents\Programming\C# NIcarjon 2\bin\Debug\net8.0\C# NIcarjon 2.dll
+D:\Users\Marneilx\Documents\Programming\C# NIcarjon 2\bin\Debug\net8.0\C# NIcarjon 2.pdb
+D:\Users\Marneilx\Documents\Programming\C# NIcarjon 2\obj\Debug\net8.0\C# NIcarjon 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Marneilx\Documents\Programming\C# NIcarjon 2\obj\Debug\net8.0\C# NIcarjon 2.AssemblyInfoInputs.cache
+D:\Users\Marneilx\Documents\Programming\C# NIcarjon 2\obj\Debug\net8.0\C# NIcarjon 2.AssemblyInfo.cs
+D:\Users\Marneilx\Documents\Programming\C# NIcarjon 2\obj\Debug\net8.0\C# NIcarjon 2.csproj.CoreCompileInputs.cache
+D:\Users\Marneilx\Documents\Programming\C# NIcarjon 2\obj\Debug\net8.0\C# NIcarjon 2.dll
+D:\Users\Marneilx\Documents\Programming\C# NIcarjon 2\obj\Debug\net8.0\refint\C# NIcarjon 2.dll
+D:\Users\Marneilx\Documents\Programming\C# NIcarjon 2\obj\Debug\net8.0\C# NIcarjon 2.pdb
+D:\Users\Marneilx\Documents\Programming\C# NIcarjon 2\obj\Debug\net8.0\C# NIcarjon 2.genruntimeconfig.cache
+D:\Users\Marneilx\Documents\Programming\C# NIcarjon 2\obj\Debug\net8.0\ref\C# NIcarjon 2.dll
